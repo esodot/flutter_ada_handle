@@ -11,6 +11,25 @@ A Flutter package containing conversion operations for ADA Handles ($handle)
 If you not yet familiar with ADA Handle please visit official page
 https://adahandle.com/
 
+## Installation
+
+In your project add dependency to your `pubspec.yaml`
+
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+
+  ada_handle:
+    git:
+      url: https://github.com/esodot/flutter_ada_handle.git
+      ref: master
+```
+Run `flutter pub get`
+
+Import package `import 'package:ada_handle/ada_handle.dart';`
+
+
 ## Usage
 
 ```dart
