@@ -21,11 +21,12 @@ print(policyIdAssetId);
 
 Output: `f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a77616c6d617274`
 
-The value now can be used to read the asset information, for example with the Blockfrost API <https://blockfrost.io>
+Pass this value to get back asset information, for example with the [Blockfrost API](https://blockfrost.io)
 
-The following request will get back the asset data from the Cardano Mainnet for ADA Handle "walmart"
+The following request reads the data from Cardano Mainnet for ADA Handle "walmart"
 
-Attention! HTTP header of your request MUST include the project_id in order to authenticate against Blockfrost servers 
+Attention! HTTP header of your request MUST include the project_id in order to authenticate against Blockfrost servers
+ 
 <https://cardano-mainnet.blockfrost.io/api/v0/assets/f0ff48bbb7bbe9d59a40f1ce90e9e9d0ff5002ec48f232b49ca0fb9a77616c6d617274>
 
 
