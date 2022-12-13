@@ -1,3 +1,5 @@
+![example workflow](https://github.com/esodot/flutter_ada_handle/actions/workflows/flutter.yml/badge.svg)
+
 A Flutter package containing conversion operations for ADA Handles ($handle)
 
 ## Features
