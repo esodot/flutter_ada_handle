@@ -15,24 +15,13 @@ https://adahandle.com/
 
 ## Installation
 
-In your project add dependency to your `pubspec.yaml`
+Run `flutter pub add ada_handle`
 
-```yaml
-dependencies:
-  flutter:
-    sdk: flutter
-
-  ada_handle:
-    git:
-      url: https://github.com/esodot/flutter_ada_handle.git
-      ref: master
-```
 Run `flutter pub get`
 
-Import package `import 'package:ada_handle/ada_handle.dart';`
-
-
 ## Usage
+
+Import package `import 'package:ada_handle/ada_handle.dart';`
 
 ```dart
 final String handle = 'walmart';
