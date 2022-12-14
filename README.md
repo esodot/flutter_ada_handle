@@ -55,6 +55,16 @@ Attention! HTTP header of your request MUST include the project_id in order to a
 
 Check also the test use cases [test file](test/ada_handle_test.dart)
 
+## Contribution
+
+You are very welcome to contribute to the package:
+
+- Fork the Repo
+- Add your changes (don't forget to add tests as well)
+- Create a Pull Request (PR)
+
+We will check your input asap
+
 ## Publisher
 
 Created by AndroDevs @2022
