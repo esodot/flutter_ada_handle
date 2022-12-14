@@ -1,6 +1,6 @@
 name: ada_handle
-description: Flutter ADA Handle package
-version: 1.0.1
+description: Flutter ADA Handle package which is suporting conversion operations for $handle
+version: 1.0.2
 homepage: https://github.com/esodot/flutter_ada_handle
 
 environment:
