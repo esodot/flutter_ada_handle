@@ -1,3 +1,3 @@
-## 0.0.1
+## v1.0.0
 
-Initial Release of ADA Handle support Flutter package
+Flutter package ADA Handle v1.0.0 initial release
